@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leopard2A7V
 - 👀 I’m interested in Coding and designing.
-- 🌱 I’m currently learning Full-stack Web Developer, Hardware programming.
+- 🌱 I’m currently learning Full-stack Web Developer and Hardware programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
